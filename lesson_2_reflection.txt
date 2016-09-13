@@ -1,7 +1,20 @@
-﻿What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository?
+it goes to the staging area..
+
+Why do you need to do it?
+
+
+to add it to .git file..
 
 How is the staging area different from the working directory and the repository?
+
 What value do you think it offers?
+staging area -is to one file add/ multiple file to combain n add to .get .
+working directory - is the current folder on which it is working on .
+repository - is the file which is been added to the .git file .
+
+
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
